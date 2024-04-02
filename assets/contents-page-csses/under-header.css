@@ -1,0 +1,32 @@
+.white-space{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+
+.under-header{
+    width: 100%;
+    height: 68px;
+    z-index: 3;
+    align-items: center;
+    padding-left: 200px;
+    position: fixed;
+    display: flex;
+    background-color: #F5F5F9;
+}
+
+.under-header-list{
+    display: flex;
+    list-style: none;
+}
+
+.under-header-list>li{
+    font-size: 13px;
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-left: 20px;
+}
+
+.under-header-list-img{
+    padding-left: 15px;
+}

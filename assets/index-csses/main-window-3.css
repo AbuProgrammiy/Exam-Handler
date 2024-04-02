@@ -1,0 +1,96 @@
+.main-window-3 {
+    width: 100%;
+    height: 900px;
+    background-color: #F5F5F9;
+}
+
+.about-header {
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 100px;
+    padding-left: 100px;
+    font-family: sans-serif;
+}
+
+.about-text-1 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    padding-top: 70px;
+    padding-left: 100px;
+    font-family: sans-serif;
+}
+.about-text-2{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    padding-top: 30px;
+    padding-left: 100px;
+    font-family: sans-serif;
+}
+
+.description-list {
+    padding-left: 120px;
+}
+
+.description-list>li{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+
+.video-player{
+    position: relative;
+    left: 900px;
+    bottom: 600px;
+}
+
+.video-player-button{
+    position: relative;
+    left: 590px;
+    bottom: 750px;
+}
+
+.addition-description{
+    width: 526px;
+    height: 170px;
+    border-radius: 20px;
+    position: relative;
+    left: 900px;
+    bottom: 570px;
+    color: white;
+    background-color: #5DB7DE;
+    transition: box-shadow 0.5s ease;
+}
+
+.addition-description:hover{
+    box-shadow:
+    0 0 10px #5DB7DE,
+    0 10px 10px -5px #5DB7DE,
+    10px 0 10px -5px #5DB7DE,
+    -10px 0 10px -5px #5DB7DE;
+}
+
+
+.addition-description-header{
+    font-size: 13px;
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.addition-description-text{
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 26px;
+    font-family: sans-serif;
+    padding-left: 30px;
+    padding-top: 45px;
+}
+
+.as-button:hover{
+    cursor: pointer;
+}
+

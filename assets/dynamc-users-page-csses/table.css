@@ -1,0 +1,23 @@
+.refresh {
+    align-self: center;
+    width: 200px;
+    height: 70px;
+    color: white;
+    background-color: rgb(131, 131, 235);
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
